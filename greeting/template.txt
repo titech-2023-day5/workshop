@@ -1,5 +1,5 @@
-* ニックネーム：
-* 誕生日：
-* 出身地：
-* 学部：
-* 趣味：
+* ニックネーム (Nicknames)：
+* 誕生日 (Birthday)：
+* 出身地 (Birthplace)：
+* 学部 (Faculty)：
+* 趣味 (Hobbies)：
