@@ -3,3 +3,5 @@
 * 出身地 (Birthplace)：Monrovia/Liberia
 * 学部 (Faculty)：Student
 * 趣味 (Hobbies)：Reading & Walking
+
+
