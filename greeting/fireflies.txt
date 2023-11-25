@@ -3,3 +3,5 @@
 出⾝地 (Birthplace)： Bangladesh
 学部 (Faculty)： student
 趣味 (Hobbies)： cooking
+movies: Shutter Island
+Book: nishir rat
