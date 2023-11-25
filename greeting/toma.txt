@@ -4,3 +4,4 @@
 * 学部 (Faculty)：Life_Science
 * 趣味 (Hobbies)：snowboarding
 It is an awesome self introduction.Thank you
+* confrict-test ：Yes!
